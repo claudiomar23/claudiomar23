@@ -5,13 +5,12 @@ Me chamo Claudiomar e aqui você pode ter acesso a todos os códigos que estou p
 Dado que grande parte desse conhecimento adquiri de forma livre na internet, sinta-se livre para poder copiar e replicar o que achar mais interessante, desde que cite a fonte 😀😀😀😀😀
 
 Mais alguns fatos sobre mim 
-- 🧑‍💼 Atualmente trabalho no Instituto de Pesquisa Econômica Aplicada - IPEA, mas sou concursado com Especialista em Políticas Públicas e Gestão Governamental do Ministério da Economia ...
+- 🧑‍💼 Atualmente trabalho no Ministério das Cidades, mas sou concursado com Especialista em Políticas Públicas e Gestão Governamental do Ministério da Economia
 - 👨‍🏫 Também sou Professor da graduação e da pós-graduação do Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa (IDP) e ministro disciplinas de Economia, Administração Pública e Data Science
 - 📜 Meu currículo Lattes pode ser acessado em:  http://lattes.cnpq.br/4947956711702057
 - 🌱 Estudo e aprendo todos os dias sobre R e Python
 - 💬 Minha especialidade é Administração Pública e Contabilidade Pública
-- 📫 Posso ser contatado pelo e-mail claudiounb@gmail.com ou claudiomar.filho@ipea.gov.br
-
+- 📫 Posso ser contatado pelo e-mail claudiounb@gmail.com
 Conhecimento aqui é livre 😀😀😀
 
 <div align="center">
